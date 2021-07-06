@@ -1,0 +1,19 @@
+.body {
+  background-color: #faecd9;
+}
+
+.jumbotron {
+  background: url(../Portfolio/Assets/morning.jpg) fixed;
+  background-size: cover;
+  height: 90vh;
+}
+
+.jumbo-header {
+    display: flex;
+    justify-content: center;
+    margin-top: 400px;
+}
+
+#scrollspyheading1 {
+  
+}
