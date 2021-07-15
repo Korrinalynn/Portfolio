@@ -9,11 +9,72 @@
 }
 
 .jumbo-header {
-    display: flex;
-    justify-content: center;
-    margin-top: 400px;
+  display: flex;
+  justify-content: center;
+  margin-top: 400px;
 }
 
-#scrollspyheading1 {
-  
+.container1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.container2 {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.container3 {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.footer {
+  margin-left: 15px;
+}
+
+.para {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 80px;
+  margin-bottom: 150px;
+  font-size: 18px;
+}
+
+#scrollspyHeading1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#scrollspyHeading2 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#scrollspyHeading3 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.emailPlace {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.messagePlace {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.container2 {
+  margin-bottom: 50px;
+}
+
+.container3 {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.container4{
+  margin-left: 600px;
+  margin-right: 600px;
 }
