@@ -78,3 +78,15 @@
   margin-left: 600px;
   margin-right: 600px;
 }
+
+a:link {
+  color: #CE6F8D;
+}
+
+a:visited {
+  color: #634C7C;
+}
+
+a:hover {
+  color: #00023F;
+}
